@@ -1,6 +1,7 @@
 # flutter_dashboard_app
 
-A new Flutter application.
+created this dashboard with buttons + nav for a simple and clean app experience
+pkease leave a star when you fork it motivates me alot 
 
 
 ![alt text](https://github.com/Ngoni-Sama/flutter-Dash-board-UI-app/blob/main/Screenshot_20190714-060321.png)
