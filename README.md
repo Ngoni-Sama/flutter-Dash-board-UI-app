@@ -3,7 +3,7 @@
 A new Flutter application.
 
 
-![alt text](http://rrtutors.com/uploads/langpostimg/Screenshot_20190714-060321.png)
+![alt text](https://github.com/Ngoni-Sama/flutter-Dash-board-UI-app/blob/main/Screenshot_20190714-060321.png)
 
 ## Getting Started
 
